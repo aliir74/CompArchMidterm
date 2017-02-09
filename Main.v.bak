@@ -1,0 +1,8 @@
+module Main;
+Clock new_clock;
+Cache new_cache;
+MainMemory new_memory;  
+
+
+
+endmodule

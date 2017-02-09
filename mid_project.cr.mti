@@ -1,0 +1,22 @@
+{C:/Users/Mahshid/Desktop/arch mid project/MainMemory2.sv} {1 {vlog -work work -vopt -sv -nocovercells {C:\Users\Mahshid\Desktop\arch mid project\MainMemory2.sv}
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module MainMem
+
+Top level modules:
+	MainMem
+
+} {} {}} {C:/Users/Mahshid/Desktop/arch mid project/cache_tb.sv} {1 {vlog -work work -vopt -sv -nocovercells {C:\Users\Mahshid\Desktop\arch mid project\cache_tb.sv}
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module Cache_tb
+
+Top level modules:
+	Cache_tb
+
+} {} {}} {C:/Users/Mahshid/Desktop/arch mid project/Cache2.sv} {1 {vlog -work work -vopt -sv -nocovercells {C:\Users\Mahshid\Desktop\arch mid project\Cache2.sv}
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module direct_Cache
+
+Top level modules:
+	direct_Cache
+
+} {} {}}

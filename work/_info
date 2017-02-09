@@ -1,0 +1,145 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech_6.5\examples
+T_opt
+VVD;5HAUmi5S=:ICe7ZY=b0
+04 8 4 work Cache_tb fast 0
+=1-00ff6e33c9dc-55185c18-33-1388
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;6.5;42
+vCache_tb
+Z1 Mx1 6 sv_std 3 std
+Z2 DXx6 sv_std 3 std 0 22 WnQ=;W1X^o9K1PIQTgInR3
+Z3 I^Rf7a7=<OCcRUnjnjDdT32
+Z4 VEk1TfZe>DZeScz<d<HL6[2
+S1
+Z5 dC:\Users\Mahshid\Desktop\arch mid project
+Z6 w1427653896
+Z7 8C:\Users\Mahshid\Desktop\arch mid project\cache_tb.sv
+Z8 FC:\Users\Mahshid\Desktop\arch mid project\cache_tb.sv
+L0 2
+Z9 OE;L;6.5;42
+r1
+31
+Z10 !s102 -nocovercells
+Z11 o-work work -sv -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z12 n@cache_tb
+Z13 !s100 UEb7?FWh;ICFPD]MNCEHo2
+!s85 0
+vClock
+R1
+R2
+Z14 IFVHP?zh=[1TXfj]dT4Ae_3
+Z15 V@^JP2E0O:^jBeDMLLg^e;1
+S1
+R5
+Z16 w1427291282
+Z17 8C:\Users\Mahshid\Desktop\arch mid project\Clock2.sv
+Z18 FC:\Users\Mahshid\Desktop\arch mid project\Clock2.sv
+L0 1
+R9
+r1
+31
+R10
+R11
+Z19 n@clock
+Z20 !s100 U8mab_EJ^XPF3J2nmP>540
+!s85 0
+vdirect_Cache
+R1
+R2
+Z21 IVh3CjQiV2g71[IdVLjZQQ0
+Z22 VL?D]z3KZ[fOmPL7S<H`Ge3
+S1
+R5
+Z23 w1427654587
+Z24 8C:\Users\Mahshid\Desktop\arch mid project\Cache2.sv
+Z25 FC:\Users\Mahshid\Desktop\arch mid project\Cache2.sv
+L0 1
+R9
+r1
+31
+R10
+R11
+Z26 ndirect_@cache
+Z27 !s100 GEUBoeTW_Tk9VL8g?JM>61
+!s85 0
+vMain
+R1
+R2
+Z28 I?6f[2:I`4ZlL2h@ABlf_]1
+Z29 V=QRU<>I@@oCM;OCBk;_db0
+S1
+R5
+Z30 w1427371543
+Z31 8C:\Users\Mahshid\Desktop\arch mid project\Main2.sv
+Z32 FC:\Users\Mahshid\Desktop\arch mid project\Main2.sv
+L0 1
+R9
+r1
+31
+R10
+R11
+Z33 n@main
+Z34 !s100 2_ImW1dZz8Qg5M62UzbUF0
+!s85 0
+vMainMem
+R1
+R2
+Z35 IaaP2VImP^V`j[Q<Ln:@BM0
+Z36 VE2oQ`W8RAU^_G67G`g3l@0
+S1
+R5
+Z37 w1427639176
+Z38 8C:\Users\Mahshid\Desktop\arch mid project\MainMemory2.sv
+Z39 FC:\Users\Mahshid\Desktop\arch mid project\MainMemory2.sv
+L0 1
+R9
+r1
+31
+R10
+R11
+Z40 n@main@mem
+Z41 !s100 A930EI_;ISo[[[gDoJi:f1
+!s85 0
+vMainMemory
+R1
+R2
+Z42 Icf2NbUa_4A=o:c^Yb;8kM0
+Z43 Vz51Yo[mNFfNL2_aoj1A7a2
+S1
+R5
+Z44 w1427291445
+R38
+R39
+L0 1
+R9
+r1
+31
+R10
+R11
+Z45 n@main@memory
+Z46 !s100 zP8ildW8`MVo_027go_hK1
+!s85 0
+vmyClock
+R1
+R2
+Z47 IbAFYR@@ZPX_CT0FPX=g:<0
+Z48 VZaBFEJDhjO;0abnEZTCEl3
+S1
+R5
+Z49 w1427302122
+Z50 8C:/Users/Mahshid/Desktop/arch mid project/Clock2.sv
+Z51 FC:/Users/Mahshid/Desktop/arch mid project/Clock2.sv
+L0 1
+R9
+r1
+31
+R10
+R11
+Z52 nmy@clock
+Z53 !s100 j6b9o?ZadM]4?NKL0L2[:1
+!s85 0
