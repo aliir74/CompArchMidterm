@@ -1,5 +1,0 @@
-module MainMem;  
-
-reg [8191:0] mem [0:15];
-
-endmodule
